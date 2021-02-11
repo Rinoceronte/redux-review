@@ -1,7 +1,7 @@
 import React from 'react'
-import MovieForm from './components/MovieForm'
-import MovieConfirm from './components/MovieConfirm'
-import MovieList from './components/MovieList'
+import MovieForm from './components/MovieForm/MovieForm'
+import MovieConfirm from './components/MovieConfirm/MovieConfirm'
+import MovieList from './components/MovieConfirm/MovieList'
 
 import { Switch, Route } from 'react-router-dom'
 
